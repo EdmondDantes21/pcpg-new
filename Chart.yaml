@@ -1,0 +1,7 @@
+apiVersion: v2
+description: A Blueprint for Krateo Composable Portal Composition page with a generic
+  approach
+icon: https://github.com/krateoplatformops/krateo/blob/main/docs/media/logo.svg
+name: portal-composition-page-generic
+type: application
+version: 1.1.76
